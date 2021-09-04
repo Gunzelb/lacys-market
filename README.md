@@ -1,2 +1,2 @@
 # lacys-market
-# An e-commerce retail store
+An e-commerce retail store
